@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8aa1b07.css",
+    "main.js": "/static/js/main.1e92b991.js",
+    "static/media/kissatpageheader.jpg": "/static/media/kissatpageheader.1402d582e6cda3825d0d.jpg",
+    "static/media/elvis junior.png": "/static/media/elvis junior.45021b9a0ed250d7e3ae.png",
+    "static/media/frontpageheader.jpg": "/static/media/frontpageheader.0abd68cf13c039c59a55.jpg",
+    "static/media/miina.png": "/static/media/miina.67a536078e16f7a5f42e.png",
+    "static/media/frontpagepicture.jpg": "/static/media/frontpagepicture.482fafc07837e9a5f537.jpg",
+    "static/media/viiruliina.jpg": "/static/media/viiruliina.e34e3dc3e8999a8e0f3b.jpg",
+    "static/media/pumpuli.jpg": "/static/media/pumpuli.260d4c820748aa724464.jpg",
+    "static/media/leevi.jpg": "/static/media/leevi.560a2412a09814dd0e41.jpg",
+    "static/media/otayhteyttapageheader.jpg": "/static/media/otayhteyttapageheader.ee99cdef042e4020fd69.jpg",
+    "static/media/menupageheader.jpeg": "/static/media/menupageheader.eee925e3b82c03ac5dfa.jpeg",
+    "static/media/logo.svg": "/static/media/logo.9f696f2240e064ad9d83c46f86be600d.svg",
+    "static/media/igicon.svg": "/static/media/igicon.18d8a17efa1d2ddbd5883886bb2c4a6f.svg",
+    "static/media/igiconhover.svg": "/static/media/igiconhover.48fd973aca47f803baf135e16af9a604.svg",
+    "index.html": "/index.html",
+    "static/media/fbicon.svg": "/static/media/fbicon.925ae17cbed0a99c918e4436506d5528.svg",
+    "static/media/fbiconhover.svg": "/static/media/fbiconhover.9b84c639f00a0ccc48761ef622b42508.svg",
+    "main.c8aa1b07.css.map": "/static/css/main.c8aa1b07.css.map",
+    "main.1e92b991.js.map": "/static/js/main.1e92b991.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8aa1b07.css",
+    "static/js/main.1e92b991.js"
+  ]
+}
