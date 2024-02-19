@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.956bc33d.css",
+    "main.css": "/static/css/main.0bcf98ea.css",
     "main.js": "/static/js/main.1e92b991.js",
     "static/media/kissatpageheader.jpg": "/static/media/kissatpageheader.1402d582e6cda3825d0d.jpg",
     "static/media/elvis junior.png": "/static/media/elvis junior.45021b9a0ed250d7e3ae.png",
@@ -18,11 +18,11 @@
     "index.html": "/index.html",
     "static/media/fbicon.svg": "/static/media/fbicon.925ae17cbed0a99c918e4436506d5528.svg",
     "static/media/fbiconhover.svg": "/static/media/fbiconhover.9b84c639f00a0ccc48761ef622b42508.svg",
-    "main.956bc33d.css.map": "/static/css/main.956bc33d.css.map",
+    "main.0bcf98ea.css.map": "/static/css/main.0bcf98ea.css.map",
     "main.1e92b991.js.map": "/static/js/main.1e92b991.js.map"
   },
   "entrypoints": [
-    "static/css/main.956bc33d.css",
+    "static/css/main.0bcf98ea.css",
     "static/js/main.1e92b991.js"
   ]
 }
