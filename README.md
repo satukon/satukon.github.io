@@ -1,6 +1,6 @@
 ## Kissakahvila Kissankulma
 
--> <a href="https://satukon.github.io/">Click to open the site</a> <-
+-> <a href="https://satukon.github.io/" target="_blank">Click to open the site</a> <-
 
 I created a website for an imaginary cat cafe as my coursework for course "User Interaction in Web and Mobile".
 
