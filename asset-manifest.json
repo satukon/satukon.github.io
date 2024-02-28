@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0bcf98ea.css",
-    "main.js": "/static/js/main.1e92b991.js",
+    "main.css": "/static/css/main.1e18cdc0.css",
+    "main.js": "/static/js/main.c6d6a3f9.js",
     "static/media/kissatpageheader.jpg": "/static/media/kissatpageheader.1402d582e6cda3825d0d.jpg",
     "static/media/elvis junior.png": "/static/media/elvis junior.45021b9a0ed250d7e3ae.png",
     "static/media/frontpageheader.jpg": "/static/media/frontpageheader.0abd68cf13c039c59a55.jpg",
@@ -18,11 +18,11 @@
     "index.html": "/index.html",
     "static/media/fbicon.svg": "/static/media/fbicon.925ae17cbed0a99c918e4436506d5528.svg",
     "static/media/fbiconhover.svg": "/static/media/fbiconhover.9b84c639f00a0ccc48761ef622b42508.svg",
-    "main.0bcf98ea.css.map": "/static/css/main.0bcf98ea.css.map",
-    "main.1e92b991.js.map": "/static/js/main.1e92b991.js.map"
+    "main.1e18cdc0.css.map": "/static/css/main.1e18cdc0.css.map",
+    "main.c6d6a3f9.js.map": "/static/js/main.c6d6a3f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.0bcf98ea.css",
-    "static/js/main.1e92b991.js"
+    "static/css/main.1e18cdc0.css",
+    "static/js/main.c6d6a3f9.js"
   ]
 }
