@@ -6,4 +6,4 @@ I created a website for a fictional cat cafe as my coursework for course "User I
 
 I made the layout designs in Figma and then built the site by using React.js, html and css.
 
-The images I have used are stock photos and were available for non-commercial use free of charge.
+The images I have used are stock photos and at the time were available for non-commercial use free of charge.
